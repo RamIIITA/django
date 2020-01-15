@@ -2,12 +2,15 @@
 configurtion for mongodb and postgres
 
 All the code is only configured with python3.6
-even virtualenv also created using python3.6 only after other libraries are added
+even virtualenv also created using python3.6 only then only after remaining libraries in requirements.txt installed
 
 changing python2/3 to python3.6 temporarly in a particular environment
+install all the requirement libraries into your system
 
 ===============================
 alias python=python3.6
+python3.6 -m pip install -r requirements.txt
+
 ===============================
 
 
