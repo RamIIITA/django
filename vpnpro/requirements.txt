@@ -23,7 +23,7 @@ html5lib==0.999
 httplib2==0.9.1
 idna==2.0
 importlib-metadata==1.4.0
-Jinja2==2.8
+Jinja2==2.11.3
 kombu==3.0.37
 lxml==3.5.0
 Mako==1.0.3
