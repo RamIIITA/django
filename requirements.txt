@@ -23,7 +23,7 @@ importlib-metadata==1.4.0
 Jinja2==2.8
 kombu==3.0.37
 lxml==3.5.0
-Mako==1.0.3
+Mako==1.2.2
 MarkupSafe==0.23
 more-itertools==8.1.0
 oauthlib==1.0.3
